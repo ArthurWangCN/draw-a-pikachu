@@ -178,6 +178,9 @@
         overflow: hidden;
         border: 2px solid #000;
     }
+    /**
+      * 给皮卡丘加个粉粉的舌头
+      */
     .tongue::after {
         width: 100px;
         height: 100px;
